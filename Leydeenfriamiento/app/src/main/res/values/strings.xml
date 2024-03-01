@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ley de enfriamiento</string>
+    <string name="tiempo1">Tiempo 1:</string>
+    <string name="tiempo2">Tiempo 2:</string>
+    <string name="temp1">Temperatura 1:</string>
+    <string name="temp2">Temperatura 2:</string>
+    <string name="tempm">Temperatura del medio:</string>
+    <string name="boton">Calcular funcion</string>
+    <string name="leyenda1">La temperatura de </string>
+    <string name="leyenda2">°C se dara en un tiempo de: </string>
+    <string name="leyenda3">En un tiempo de </string>
+    <string name="leyenda4">min la temperatura sera: </string>
+    <string name="calcular">Calcular </string>
+    <string name="min">Min </string>
+    <string name="C">°C </string>
+</resources>
